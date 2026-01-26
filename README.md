@@ -1876,8 +1876,8 @@ html.visual-refresh {
 	}
 
 	/* hide idle call background */
-	.gradientBackground__11664,
-	.gradientBackground__41626 {
+	//.gradientBackground__11664,
+	//.gradientBackground__41626 {
 		display: none;
 	}
 
