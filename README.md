@@ -1923,7 +1923,7 @@ html.visual-refresh {
 
 	/* call background */
 	.wrapper_cb9592.minimum_cb9592 .callContainer_cb9592 {
-		//background: #202225;
+		/*background: #202225;*/
 	}
 	.pulseGradient__11664 {
 		display: none;
