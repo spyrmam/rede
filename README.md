@@ -1876,8 +1876,8 @@ html.visual-refresh {
 	}
 
 	/* hide idle call background */
-	//.gradientBackground__11664,
-	//.gradientBackground__41626 {
+	.gradientBackground__11664,
+	.gradientBackground__41626 {
 		display: none;
 	}
 
@@ -1923,7 +1923,7 @@ html.visual-refresh {
 
 	/* call background */
 	.wrapper_cb9592.minimum_cb9592 .callContainer_cb9592 {
-		background: #202225;
+		//background: #202225;
 	}
 	.pulseGradient__11664 {
 		display: none;
